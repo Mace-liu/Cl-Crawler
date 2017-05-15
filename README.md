@@ -2,7 +2,7 @@
 CL Crawler
 
 
-This crawler is used to download pictures and torrent from the special website 'you know that'.
+This crawler is used to download pictures and torrents from the special website 'you know that'.
 
 It's developed using python 2.7, run "cl.py" to use it.
 
