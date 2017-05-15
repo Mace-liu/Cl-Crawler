@@ -1,10 +1,9 @@
 # Cl-Crawler
-CL collector
+CL Crawler
 
 
+This crawler is used to download pictures and torrent from the special website 'you know that'.
 
-This is a web crawler to download the image and torrent form the special website 'you know that'.
+It's developed using python 2.7, run "cl.py" to use it.
 
-This crawler developed with Python 2.7 , run "cl.py" to use it.
-
-As a python beginner, It's my first experimental product. It leaves a lot to be desired.
+As a python beginner, It's my first experimental product. It has a lot of places to be perfect.
